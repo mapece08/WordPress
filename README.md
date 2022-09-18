@@ -1,7 +1,9 @@
 # WordPress
 
 Download the files
+
 Upload the files to your Hosting Account
+
 Import and connect data base
 
 ##Connecting Database
